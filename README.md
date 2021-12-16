@@ -1,6 +1,6 @@
 
 # Object Pool
-![CircleCI](https://circleci.com/gh/RentMe2/SharedQueue.svg?style=svg)
+![CircleCI](https://circleci.com/gh/MuhammadMoeedUllah/Object-Pool.svg?style=svg)
 ![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MuhammadMoeedUllah/52019294b0eaaae8927f305e7c1b7052/raw/test.json)
 <br />
 <br />
