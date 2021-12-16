@@ -12,7 +12,7 @@ jobs:
       - run: sudo apt-get install build-essential
       - run: sudo apt-get install autoconf automake gdb libffi-dev zlib1g-dev libssl-dev
       - run: git clone https://github.com/MuhammadMoeedUllah/Object-Pool.git
-      - run: cd RateLimiter && sudo mkdir build && cd build && pwd && ls && sudo cmake .. && sudo make
+      - run: cd Object-Pool && sudo mkdir build && cd build && pwd && ls && sudo cmake .. && sudo make
 
 workflows:
   version: 2.1
