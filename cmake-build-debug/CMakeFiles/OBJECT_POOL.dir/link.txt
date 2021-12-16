@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/OBJECT_POOL.dir/main.cpp.o  -o OBJECT_POOL  -lpthread 
