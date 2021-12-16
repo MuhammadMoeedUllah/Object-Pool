@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pool/objectPool.hpp
+mutex
+-
+bits/stdc++.h
+-
+vector
+-
+stack
+-
+
+/home/moeed/CLionProjects/github_prjects/objectPool/main.cpp
+pool/objectPool.hpp
+/home/moeed/CLionProjects/github_prjects/objectPool/pool/objectPool.hpp
+

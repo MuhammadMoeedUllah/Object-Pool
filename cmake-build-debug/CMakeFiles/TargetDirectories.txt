@@ -1,0 +1,6 @@
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/CMakeFiles/OBJECT_POOL.dir
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/home/moeed/CLionProjects/github_prjects/objectPool/cmake-build-debug/tests/CMakeFiles/TEST_OBJECT_POOL.dir
